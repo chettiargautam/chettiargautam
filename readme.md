@@ -49,6 +49,7 @@ A Senior at VIT Vellore, pursuing B-Tech in ECE. Robotics, Data Science, ML, IoT
 <a href="https://reactjs.org/" target="_blank"><img align ="left" alt="Arduino" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VSCode" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></a>
 <a href="https://www.spyder-ide.org/" target="_blank"> <img align="left" alt="Spyder" height ="42px" src="https://www.vhv.rs/dpng/d/208-2081256_python-logo-png-spyder-logo-spyder-python-icon.png"></a>
+<br/>
 <a href="https://matlab.mathworks.com/" target="_blank"> <img align="left" alt="MATLAB" height ="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></a>
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img align="left" alt="Adobe Photoshop" height ="42px" src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png"></a>
 

@@ -30,8 +30,8 @@ A Senior at VIT Vellore, pursuing B-Tech in ECE. Robotics, Data Science, ML, IoT
 
 - 👨🏽‍💻 Always on the hunt for knowledge
 - 🌱 Learning whatever comes by
-- 💬 Ask Me About Anything Related to my projects, I Am Happy To **Help**
-- 📫 Reach Me: chettiargautam@gmail.com
+- 💬 Hit me up for anything!
+- 📫 Reach me on chettiargautam@gmail.com
 
 
 

@@ -5,7 +5,7 @@
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br> -->
 
-# Heyy! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width=40>, I'm Gautam Chettiar!
+# Salut! <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width=40>, je suis Gautam Chettiar!
 
 
 <a href="https://www.linkedin.com/in/gautam-chettiar-a0bb861b3/" target="_blank">

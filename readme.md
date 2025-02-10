@@ -2,15 +2,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gautam-chettiar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/yourgithubprofile" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/chettiargautam" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:chettiargautam@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://scholar.google.com/citations?user=yourprofile" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://scholar.google.ca/citations?user=PugLbcEAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
   <a href="https://drive.google.com/file/d/1dQ_K9dVE2McksdV1wXRfk2utOjDfrU8j/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"></a>
 </p>
 
 ## 🚀 About Me
-### Artificial Intelligence/Machine Learning Engineer | Cloud & DataOps Enthusiast | Full-Stack Development Enthusiast
+### Machine Learning Engineer | Cloud & DataOps Enthusiast | Full-Stack Development Enthusiast
 
 A skilled professional with proficiency in **Machine Learning, AI, Cloud, and DataOps**. Passionate about developing scalable AI systems, optimizing ML models, and deploying solutions. Strong background in **LLMs, NLP, Computer Vision, MLOps, and Web Development**.
 
